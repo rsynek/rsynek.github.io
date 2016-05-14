@@ -1,0 +1,36 @@
+body {
+    font-family: 'Oxygen', sans-serif;
+}
+
+nav.navbar div.container {
+  margin: 0px;
+  padding: 0px;
+}
+
+div.navbar-header {
+  padding: 5px;
+}
+
+#collapsable-nav {
+    margin: 0px;
+    padding: 0px;
+}
+
+#collapsable-nav ul {
+    background-color: #ffff4d;
+    margin: 0px;
+}
+
+#collapsable-nav ul li {
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+#collapsable-nav ul li:hover {
+    background-color: #e6e6ff;
+}
+
+#long-section {
+    padding: 0px 30px 0px 30px;
+}
